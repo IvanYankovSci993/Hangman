@@ -28,4 +28,6 @@ def ask_for_input():
                     'Please, enter a single alphabetical character.')
     return guess
 
+
+# call the methds
 check_guess(ask_for_input())
