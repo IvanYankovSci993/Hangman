@@ -14,7 +14,7 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 
 ##mMilestone_3
 
-    Define two functions:
+    Defines two functions:
         First f asks for user input and ensures it follows rules of the game 
 
         Second f evaluates whether the input character exists in the hidden word
